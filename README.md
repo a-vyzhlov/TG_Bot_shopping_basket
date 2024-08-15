@@ -16,7 +16,7 @@ Telegram bot shop telebot (pyTelegramBotAPI)
 ## Установка и настройка:
 1. Клонируйте репозиторий:
 `` 
-git clone https://github.com/RobertGoodman08/telegram-bot-shop.git
+git clone https://github.comhttps://github.com/a-vyzhlov/TG_bot_shopping_basket.git
 ``
 
 2. Установите зависимости:
