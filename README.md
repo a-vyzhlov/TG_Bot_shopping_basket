@@ -1,2 +1,2 @@
 # TG_bot_-shopping_basket
-Telegram bot shop on aiogram 3
+Telegram bot shop on telebot (pyTelegramBotAPI)
